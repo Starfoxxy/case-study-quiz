@@ -9,11 +9,11 @@ assignees: ''
 
 <br>
 
-name: Task Creation Template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+name: Task Creation Template  
+about: Describe this issue template's purpose here.  
+title: ''  
+labels: ''  
+assignees: ''  
 
 <br>
 
