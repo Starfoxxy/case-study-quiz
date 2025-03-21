@@ -7,25 +7,25 @@ assignees: ''
 
 ---
 
+
+
+name: Feature-A: Greeting Message and Name Check
+about: Describe this issue template's purpose here.  
+title: ''  
+labels: ''  
+assignees: ''  
+
 <br>
 
-name: Task Creation Template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+## - Task Owner (Responsible): [Eric]
 
-<br>
-
-## - Task Owner (Responsible): [First Name, Last Initial]
-
-## - Task Assignee (Accountable): [First Name, Last Initial]
+## - Task Assignee (Accountable): [Eric]
 
 ## - Task Deadline: [MM/DD/YYYY]
 
 ## - Task Description:
 
-***- Clearly describe the task, including what needs to be done and why.***
+***- You will be responsible for greeting users and checking their names. Create and switch to your Feature-A branch from your Develop branch. Add two javascript files, a welcome.js file for the greeting and a getName.js file to get user's name. Add, commit, and push your files to feature-a branch. Create a pull request, compare, and approve, merging feature-a branch to Develop branch to be tested before being pushed to production.***
 
 ## - Acceptance Criteria:
 

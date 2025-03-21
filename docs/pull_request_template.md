@@ -1,4 +1,4 @@
-## - Proposed changes  
+## - Adding a new feature-a branch with two javascript files that implement a greeting functionality displaying a welcome message, prompting users for their name, and thus greeting them with said name.
 <br>
 
 ## - Link to Product Tracker
@@ -15,7 +15,7 @@
 _Put an `x` in the boxes that apply_
 
 - [ ] Bugfix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
+- [x] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Documentation Update (if none of the other choices apply)
 
